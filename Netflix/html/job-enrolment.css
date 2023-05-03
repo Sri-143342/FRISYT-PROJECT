@@ -1,0 +1,40 @@
+*{
+    background-color: ;
+    position: relative;
+} 
+form    {
+    border-radius: 10px;
+    background-color: rgb(187, 213, 213);
+    position: absolute; 
+    padding-top: ;
+    margin: 2%;
+    width: 20rem;t
+    height: 10rem;
+
+  
+
+    
+}
+label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    
+}
+input ,textarea{
+    background-color: rgb(222, 244, 232);
+}
+input{
+    margin: 2%;
+    
+}
+div{
+    margin-left: 3%;
+    padding: 1% 3%;
+    border
+}
+
+.button:hover{
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    background-color: blanchedalmond;
+    color: black;
+}

@@ -1,0 +1,15 @@
+details{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+    width: 300px;
+    color: #f9f6f6;
+}
+details div{
+    background-image: url(background.jpg);
+    padding: 5px;
+    margin: 5px;
+    
+
+}
